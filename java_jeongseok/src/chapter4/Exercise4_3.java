@@ -10,6 +10,6 @@ public class Exercise4_3 {
 					sum += i;
 					total += sum;
 				}
-				System.out.println(total);
+				System.out.println(total); 
 	}
 }

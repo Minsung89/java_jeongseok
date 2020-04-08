@@ -15,4 +15,4 @@ public class Exercise4_6 {
 		System.out.println(sum);
 		
 	}
-}
+} 

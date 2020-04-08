@@ -8,4 +8,4 @@ public class Exercise4_7 {
 		
 		System.out.println("value : " + value);
 	}
-}
+} 

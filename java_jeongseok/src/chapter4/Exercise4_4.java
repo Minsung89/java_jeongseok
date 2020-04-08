@@ -11,7 +11,7 @@ public class Exercise4_4 {
 			count ++;
 			if(sum >= 100)
 				break;
-			sum += i % 2 == 0 ?  -i :  i;
+			sum += i % 2 == 0 ?  -i :  i; 
 			i++;
 		}
 		System.out.println(count);

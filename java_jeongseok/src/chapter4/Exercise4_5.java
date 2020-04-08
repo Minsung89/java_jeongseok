@@ -15,7 +15,7 @@ public class Exercise4_5 {
 			int j = 0;
 			while (j <= i) {
 				System.out.print("*");
-				j++;
+				j++; 
 			}
 			System.out.println();
 			i++;
